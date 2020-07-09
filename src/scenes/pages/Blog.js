@@ -48,7 +48,7 @@ function Blog() {
         <section className="section section-blog section-blog-1">
             <div className="display-spacing">
                 <Container className="container">
-                    <Headline label="Events" title="Our Latest Events" divider_1={true} position="center" />
+                    <Headline label="Updated Blog" title="Our Latest Updates" divider_1={true} position="center" />
                     <h4>2020</h4>
                     <List itemLayout="horizontal"
                             dataSource={data}
@@ -76,7 +76,7 @@ function Blog() {
                                  title={<Link to={'/blogSinglePost'} activeClassName="active">
                                  <span className="anchor">{item.title}</span>
                                     </Link>}
-                                description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                description="Our updates on this day and general goings."
                                 />
                             </List.Item>
                             )}

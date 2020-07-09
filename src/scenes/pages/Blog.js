@@ -58,7 +58,7 @@ function Blog() {
                                 title={<Link to={'/blogSinglePost'} activeClassName="active">
                                 <span className="anchor">{item.title}</span>
                                    </Link>}
-                                description="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                description="Our updates on this day and general goings."
                                 />
                             </List.Item>
                             )}

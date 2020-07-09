@@ -2,8 +2,18 @@ import React from "react";
 import { Container, Row, Col } from "react-grid-system";
 import { Input , Radio} from 'antd';
 import { FaFacebookF , FaLinkedinIn } from "react-icons/fa";
+import ReactGA from 'react-ga';
 
+
+
+function analytics()
+{
+    ReactGA.initialize('UA-172183556-1');
+    ReactGA.pageview(window.location.pathname + window.location.search);
+}
 function Footer() {
+    analytics()
+    
     return (
         <footer>
             <Container className="container">

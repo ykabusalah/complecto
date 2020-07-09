@@ -21,7 +21,7 @@ const links = [
         path: "/service",
     },
     {
-        title: "Events",
+        title: "Blog",
         path: "/blog",
     },
     {

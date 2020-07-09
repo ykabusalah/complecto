@@ -10,31 +10,31 @@ import { List } from 'antd';
 
 const data = [
     {
-      title: 'Complecto Title 2020'
+      title: 'Complecto Update 6/29'
     },
     {
-      title: 'Complecto Title 2020'
+      title: 'Complecto Update 6/12'
     },
     {
-      title: 'Complecto Title 2020'
+      title: 'Complecto Update 5/29'
     },
     {
-      title: 'Complecto Title 2020',
+      title: 'Complecto Update 5/12',
     },
   ];
 
   const data19 = [
     {
-      title: 'Complecto Title 2019'
+      title: 'Complecto Update 4/25'
     },
     {
-      title: 'Complecto Title 2019'
+      title: 'Complecto Update 3/27'
     },
     {
-      title: 'Complecto Title 2019'
+      title: 'Complecto Update 2/29'
     },
     {
-      title: 'Complecto Title 2019'
+      title: 'Complecto Update 2/15'
     },
   ];
 

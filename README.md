@@ -1,6 +1,7 @@
-# Connecto
+# The Official Complecto Website (Lyvo Fellow Project)
 
-The app uses firebase real time database ,for gathering the contact data from the users. It uses npm firebase module to insert data in to the firebase store.The file name firebase.js has all the information related to the firebase ,its function is exported so that other files can use it to communicate with the firebase .The file is being imported in Contact.js and is used to submit the data to the firebase store.Google Analytics is included in the footer.js ,a common section for all the pages ,so that user visits from all the pages can be visualized.
+This app utilizes a [Firebase Real-Time Database](https://firebase.google.com/docs/database) for gathering the contact data from the users, 
+while a [Google Analytics API](https://developers.google.com/analytics/devguides/reporting/core/v4) was utlilized in the footer of the website to visualize website visits.
 
 ## Installation
 

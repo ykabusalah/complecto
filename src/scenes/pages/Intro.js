@@ -9,19 +9,19 @@ const features = [
     {
         icon: "",
         title: "Create",
-        subtitle: "Being loved, wanted & cared for-that is what your sponsorship provides every child that we are blessed to help. $50/month covers education, food, uniforms, school supplies & medical care. Every child deserves to feel someone cares.",
+        subtitle: "We create various software for school systems that teaches internet literacy and basic computer science principles without a need for an internet access.",
         image: "/assets/images/demo/feature-1.png",
     },
     {
         icon: "",
         title: "Connect",
-        subtitle: "Empower leaders on the front lines. Your support allows us to create a direct, meaningful impact on the lives and communities we serve. From building a school to simply holding a hand, we are never alone with your support.",
+        subtitle: "We connect students in low-income school systems to experienced professionals and mentors across the college and tech landscape.",
         image: "/assets/images/demo/feature-2.png",
     },
     {
         icon: "",
         title: "Analyze",
-        subtitle: "Every single cent counts, and your generosity matters. Through your donation, we are a huge step closer to empowering a servant leader & an entire community. As we are able to deepen Complecto’s impact, lives are changed.",
+        subtitle: "We collect data from our custom curriculums, continually gaining more insight into best practices for technical literacy programs.",
         image: "/assets/images/demo/feature-3.png",
     }
 ];

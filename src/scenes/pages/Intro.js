@@ -72,8 +72,8 @@ function Intro() {
             <div className="display-spacing">
                 <Container className="container">
                     <div className="theme-preview-heading">
-                        <h2>Why Choose Us?</h2>
-                        <h3>Our Awesome key features.</h3>
+                        <h2>What Do We Do?</h2>
+                        <h3>We provide these services:</h3>
                     </div>
                     <Row>
                         {features.map((item, index) => (

@@ -20,7 +20,7 @@ function Footer() {
                 <Row>
                     <Col xs={12} md={12} lg={6} xl={6}>
                         <div className="">
-                            <h2>Follow Us</h2>
+                            <h2>Follow Us: </h2>
                         </div>
                         <ul className="socialShareLinks">
                             <li><a href="/"><FaFacebookF className="icon" /></a></li>

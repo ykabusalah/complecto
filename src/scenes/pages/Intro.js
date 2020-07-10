@@ -8,19 +8,19 @@ import Footer from "./footer";
 const features = [
     {
         icon: "",
-        title: "Sponsor",
+        title: "Create",
         subtitle: "Being loved, wanted & cared for-that is what your sponsorship provides every child that we are blessed to help. $50/month covers education, food, uniforms, school supplies & medical care. Every child deserves to feel someone cares.",
         image: "/assets/images/demo/feature-1.png",
     },
     {
         icon: "",
-        title: "Empower",
+        title: "Connect",
         subtitle: "Empower leaders on the front lines. Your support allows us to create a direct, meaningful impact on the lives and communities we serve. From building a school to simply holding a hand, we are never alone with your support.",
         image: "/assets/images/demo/feature-2.png",
     },
     {
         icon: "",
-        title: "Donate",
+        title: "Analyze",
         subtitle: "Every single cent counts, and your generosity matters. Through your donation, we are a huge step closer to empowering a servant leader & an entire community. As we are able to deepen Complecto’s impact, lives are changed.",
         image: "/assets/images/demo/feature-3.png",
     }
@@ -39,7 +39,7 @@ function Intro() {
                         <div className="display-full-screen">
                             <div className="display-center">
                                 <header className="el-heading el-heading-side">
-                                    <h1>Empowering World Changers & Difference Makers</h1>
+                                    <h1>Serving Communities in Need through the Power of Software</h1>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
                                 </header>
                                 <a href="/#" className="button button-lg button-primary">

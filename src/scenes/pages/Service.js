@@ -83,16 +83,12 @@ function Service() {
                                 <span>What we do.</span>
                             </h2>
                         </div>
-                        <h3>HOW WE WORK</h3>
+                        <h3>How We Work</h3>
                         <div className="divider divider-1-reverse divider-1-1"></div>
                         <div className="divider divider-1-reverse divider-1-2"></div>
                     </header>
-                    <p className="howwework_paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et doloreLorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et doloreLorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore
+                    <p className="howwework_paragraph">We develop software dedicated to teaching computer literacy and computer science 
+                    without needing the users to have 
                     </p>
                     <Row gutter={{ xs: 8, sm: 16, md: 24, lg: 32 }}>
                     {service.map((item, index) => (
